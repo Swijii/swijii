@@ -3,22 +3,22 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://soundcloud.com/swiji" target="_blank" rel="noopener noreferrer">
-    <img src="Assets/Icons/SoundCloud.svg" alt="SoundCloud" width="32" height="32" />
+    <img src="Assets/Icons/SoundCloud.svg" alt="SoundCloud" width="30" height="30" />
   </a>
   <a href="https://www.youtube.com/channel/UCDOSq5gs5fI-pNK2-dBVMXQ" target="_blank" rel="noopener noreferrer">
-    <img src="Assets/Icons/YouTube.svg" alt="YouTube" width="32" height="32" />
+    <img src="Assets/Icons/YouTube.svg" alt="YouTube" width="30" height="30" />
   </a>
   <a href="https://discord.com/users/swijii" target="_blank" rel="noopener noreferrer">
-    <img src="Assets/Icons/Discord.svg" alt="Discord" width="32" height="32" />
+    <img src="Assets/Icons/Discord.svg" alt="Discord" width="30" height="30" />
   </a>
   <a href="https://instagram.com/swiji.music" target="_blank" rel="noopener noreferrer">
-    <img src="Assets/Icons/Instagram.svg" alt="Instagram" width="32" height="32" />
+    <img src="Assets/Icons/Instagram.svg" alt="Instagram" width="30" height="30" />
   </a>
   <a href="https://p1games.itch.io/bear-with-us" target="_blank" rel="noopener noreferrer">
-    <img src="Assets/Icons/Itch.io.svg" alt="Itch.io" width="32" height="32" />
+    <img src="Assets/Icons/Itch.io.svg" alt="Itch.io" width="30" height="30" />
   </a>
   <a href="https://www.linkedin.com/in/swiji" target="_blank" rel="noopener noreferrer">
-    <img src="Assets/Icons/LinkedIn.svg" alt="LinkedIn" width="32" height="32" />
+    <img src="Assets/Icons/LinkedIn.svg" alt="LinkedIn" width="30" height="30" />
   </a>
 </p>
 
@@ -47,18 +47,18 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noopener noreferrer">
-    <img src="Assets/Icons/FL Studio.svg" alt="FL Studio" width="90" />
+    <img src="Assets/Icons/FL Studio.svg" alt="FL Studio" width="50" />
   </a>
   <a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer">
-    <img src="Assets/Icons/Godot.svg" alt="Godot Engine" width="90" />
+    <img src="Assets/Icons/Godot.svg" alt="Godot Engine" width="50" />
   </a>
   <a href="https://unity.com/" target="_blank" rel="noopener noreferrer">
-    <img src="Assets/Icons/Unity.svg" alt="Unity" width="90" />
+    <img src="Assets/Icons/Unity.svg" alt="Unity" width="50" />
   </a>
   <a href="https://trello.com/" target="_blank" rel="noopener noreferrer">
-    <img src="Assets/Icons/Trello.svg" alt="Trello" width="90" />
+    <img src="Assets/Icons/Trello.svg" alt="Trello" width="50" />
   </a>
   <a href="https://miro.com/" target="_blank" rel="noopener noreferrer">
-    <img src="Assets/Icons/Miro.svg" alt="Miro" width="90" />
+    <img src="Assets/Icons/Miro.svg" alt="Miro" width="50" />
   </a>
 </p>
