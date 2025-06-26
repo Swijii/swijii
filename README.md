@@ -1,7 +1,3 @@
-![Swiji Animated Logo](https://raw.githubusercontent.com/Swijii/swijii/main/Assets/Icons/swiji-animated.svg)
-
-</style>
-
 <h2 align="center" class="swiji-header">🎵 Swiji 🎵</h2>
 <p align="center"><strong>Algerian Composer & Sound Designer</strong></p>
 
