@@ -3,22 +3,22 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://soundcloud.com/swiji" target="_blank" rel="noopener noreferrer">
-    <img src="Assets/Icons/SoundCloud.svg" alt="SoundCloud" width="30" height="30" />
+    <img src="Assets/Icons/SoundCloud.svg" alt="SoundCloud" width="32" height="32" />
   </a>
   <a href="https://www.youtube.com/channel/UCDOSq5gs5fI-pNK2-dBVMXQ" target="_blank" rel="noopener noreferrer">
-    <img src="Assets/Icons/YouTube.svg" alt="YouTube" width="30" height="30" />
+    <img src="Assets/Icons/Youtube.svg" alt="YouTube" width="32" height="32" />
   </a>
   <a href="https://discord.com/users/swijii" target="_blank" rel="noopener noreferrer">
-    <img src="Assets/Icons/Discord.svg" alt="Discord" width="30" height="30" />
+    <img src="Assets/Icons/Discord.svg" alt="Discord" width="32" height="32" />
   </a>
   <a href="https://instagram.com/swiji.music" target="_blank" rel="noopener noreferrer">
-    <img src="Assets/Icons/Instagram.svg" alt="Instagram" width="30" height="30" />
+    <img src="Assets/Icons/Intagram.svg" alt="Instagram" width="32" height="32" />
   </a>
   <a href="https://p1games.itch.io/bear-with-us" target="_blank" rel="noopener noreferrer">
-    <img src="Assets/Icons/Itch.io.svg" alt="Itch.io" width="30" height="30" />
+    <img src="Assets/Icons/itch.svg" alt="Itch.io" width="32" height="32" />
   </a>
   <a href="https://www.linkedin.com/in/swiji" target="_blank" rel="noopener noreferrer">
-    <img src="Assets/Icons/LinkedIn.svg" alt="LinkedIn" width="30" height="30" />
+    <img src="Assets/Icons/LinkedIn.svg" alt="LinkedIn" width="32" height="32" />
   </a>
 </p>
 
@@ -37,8 +37,8 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swiji&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swiji&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swijii&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swijii&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 ---
