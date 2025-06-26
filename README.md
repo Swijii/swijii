@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 <h2 align="center" class="swiji-header">🎵 Swiji 🎵</h2>
 <p align="center"><strong>Algerian Composer & Sound Designer</strong></p>
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 About Me
+# 💫 About Me:
 
 <p align="center">
   Huge fan of <strong>open-source software</strong>, <strong>privacy-first tools</strong>, and <strong>customizable UI themes</strong>.<br>
