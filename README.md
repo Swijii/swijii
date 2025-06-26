@@ -1,5 +1,10 @@
-## Hi there 👋
+## Swiji
 
+I’m an **Algerian Composer & Sound Designer** passionate about immersive audio for indie games and media.  
+Huge fan of **open-source software**, **privacy-first tools**, and **customizable UI themes**.  
+I enjoy creating sounds that tell stories — from dark atmospheres to playful soundscapes — always aiming to enhance the player’s emotional experience.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swijii)](https://github.com/swijii/github-readme-stats)
 <!--
 **Swijii/swijii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
