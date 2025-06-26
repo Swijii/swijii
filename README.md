@@ -17,9 +17,6 @@
   <a href="https://p1games.itch.io/bear-with-us" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Itch.io-000000?style=for-the-badge&logo=itchdotio&logoColor=white&color=white&labelColor=000000" alt="Itch.io" />
   </a>
-  <a href="https://www.linkedin.com/in/swiji" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white&color=white&labelColor=000000" alt="LinkedIn" />
-  </a>
 </p>
 
 ---
@@ -48,9 +45,6 @@
 <p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godot-engine&logoColor=white&color=white&labelColor=000000" alt="Godot Engine" />
-  </a>
-    <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/FL%20Studio-000000?style=for-the-badge&logo=Image-Line&logoColor=white&color=white&labelColor=000000" alt="FL Studio" />
   </a>
   <a href="https://unity.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&color=white&labelColor=000000" alt="Unity" />
