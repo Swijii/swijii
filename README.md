@@ -22,12 +22,22 @@
   />
 </h2>
 
-![](https://github-readme-stats.vercel.app/api?username=Swijii&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Swijii&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swijii&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- GitHub Stats -->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Swijii&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+</div>
+
+<!-- Streak -->
+<div align="right">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Swijii&theme=radical&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<!-- Top Languages -->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swijii&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
 ---
-
 <h2 align="center" style="margin-top: 2rem;">
   <img
     src="https://img.shields.io/badge/🔝-Contributions%20-141321?style=for-the-badge&logo=information&logoColor=692448&labelColor=141321"
