@@ -25,6 +25,7 @@
 ---
 
 <h2 align="center">📖 About Me</h2>
+
 <p align="center">
   Huge fan of <strong>open-source software</strong>, <strong>privacy-first tools</strong>, and <strong>customizable UI themes</strong>.<br>
   I enjoy creating sounds that tell stories — from dark atmospheres to playful soundscapes —<br>
@@ -36,12 +37,8 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://swijii.vercel.app/api?username=swijii&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://swijii.vercel.app/api/top-langs/?username=swijii&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://swijii.vercel.app/?user=swijii&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swiji&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swiji&layout=compact&theme=radical" alt="Top Languages" width="48%"/>
 </p>
 
 ---
@@ -58,3 +55,5 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FCD535"/>
 </p>
+
+---
