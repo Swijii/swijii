@@ -5,6 +5,7 @@ Huge fan of **open-source software**, **privacy-first tools**, and **customizabl
 I enjoy creating sounds that tell stories — from dark atmospheres to playful soundscapes — always aiming to enhance the player’s emotional experience.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swijii&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swijii&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Swijii/swijii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
