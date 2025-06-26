@@ -1,23 +1,5 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+![Swiji Animated Logo](https://raw.githubusercontent.com/Swijii/swijii/main/Assets/Icons/swiji-animated.svg)
 
-  .swiji-header {
-    font-family: 'Architects Daughter', cursive;
-    font-size: 2.5rem;
-    color: white;
-    animation: float 2.5s ease-in-out infinite;
-  }
-
-  @keyframes float {
-    0%   { transform: translateY(0); }
-    50%  { transform: translateY(-10px); }
-    100% { transform: translateY(0); }
-  }
-
-  body {
-    background-color: black;
-    color: white;
-  }
 </style>
 
 <h2 align="center" class="swiji-header">🎵 Swiji 🎵</h2>
