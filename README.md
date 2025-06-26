@@ -12,6 +12,12 @@
   always aiming to enhance the player’s emotional experience.
 </p>
 
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Swijii&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+
 ---
 
 <h2 align="center" style="margin-top: 2rem;">
@@ -22,38 +28,32 @@
   />
 </h2>
 
-<!-- GitHub Stats -->
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swijii&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</div>
+<!-- GitHub Widgets Row -->
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 2rem;">
 
-<!-- Streak -->
-<div align="right">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Swijii&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
+  <!-- GitHub Stats (Left) -->
+  <div style="text-align: left;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Swijii&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  </div>
 
-<!-- Top Languages -->
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swijii&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <!-- Streak Stats (Right) -->
+  <div style="text-align: right;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Swijii&theme=radical&hide_border=false" alt="GitHub Streak" />
+  </div>
+
+  <!-- Top Languages (Left) -->
+  <div style="text-align: left;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swijii&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  </div>
+
+  <!-- Contributions Stats (Right) -->
+  <div style="text-align: right;">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Swijii&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributions" />
+  </div>
+
 </div>
 
 ---
-<h2 align="center" style="margin-top: 2rem;">
-  <img
-    src="https://img.shields.io/badge/🔝-Contributions%20-141321?style=for-the-badge&logo=information&logoColor=692448&labelColor=141321"
-    alt="Contributed"
-    style="width: 300px; height: auto;"
-  />
-</h2>
-
-![](https://github-contributor-stats.vercel.app/api?username=Swijii&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
-![](https://github-profile-trophy.vercel.app/?username=Swijii&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-
 <h2 align="center" style="margin-top: 2rem;">
   <img
     src="https://img.shields.io/badge/🧠-Languages%20I%20Use-141321?style=for-the-badge&logo=information&logoColor=692448&labelColor=141321"
