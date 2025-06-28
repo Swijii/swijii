@@ -10,6 +10,7 @@
   Huge fan of <strong>open-source software</strong>, <strong>privacy-first tools</strong>, and <strong>customizable UI themes</strong>.<br>
   I enjoy creating sounds that tell stories — from dark atmospheres to playful soundscapes —<br>
   always aiming to enhance the player’s emotional experience.
+  Thank you for joining
 </p>
 
 <!-- Trophies -->
