@@ -56,10 +56,7 @@
     width="48%"
   />
   <img
-    src="https://github-contributor-stats.vercel.app/api?username=Swijii&limit=5&theme=radical&combine_all_yearly_contributions=true"
-    alt="Top Contributions"
-    width="48%"
-  />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Swijii&repo=YOUR_REPO_NAME&theme=radical&hide_border=false" alt="Featured Project" width="48%" />
 </p>
 
 ---
