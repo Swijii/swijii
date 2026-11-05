@@ -1,6 +1,6 @@
 <!-- Header / About -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vcenter=true&width=435&lines=Hi+%F0%9F%90%8B%2C+I'm+Swiji;Sound+Designer+%26+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vcenter=true&width=435&lines=Hi+%F0%9F%90%8B%2C+I'm+Swiji;Sound+Designer+%26+Composer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
